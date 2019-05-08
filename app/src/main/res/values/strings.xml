@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Phone Book</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_user">Додати контакт:</string>
+    <string name="edit_user">Редагувати контакт:</string>
+    <string name="name">"Ім'я"</string>
+    <string name="surname">Прізвище</string>
+    <string name="company">Компанія</string>
+    <string name="phone">Номер телефону</string>
+    <string name="add">Додати</string>
+    <string name="edit">Змінити</string>
+</resources>
